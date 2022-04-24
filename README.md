@@ -11,7 +11,7 @@ The ***\*documents\**** directory is the file dataset. While the ***\*files\****
 
 When you run the main program ***\*searchLarge.py\****, you need to enter your query on the commend. Then you can see the result like the graph below:
 
-![img](.\g1.png) 
+![img](https://github.com/Sun-Yiming/cloud-CS5296/blob/master/g1.png) 
 
  
 

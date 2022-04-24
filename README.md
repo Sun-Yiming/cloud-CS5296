@@ -15,4 +15,4 @@ When you run the main program ***\*searchLarge.py\****, you need to enter your q
 
  
 
-The ***\*Clean.java\**** is the mapreduce program which is used to handle the raw files at the beginning stage.
+The ***\*Clean.java\**** is the mapreduce program which is used to handle the raw files at the beginning stage. You need to build the mapreduce environment on the cloud server or virtual machine or local running environment to run this program.
